@@ -12,6 +12,12 @@ else {System.out.println (i+ " nieparzysta");}
 i++;
 }
 
+for (int j=1; j<=n;j++)
+{ if(j%2==0)
+{System.out.println(j + " parzysta");}
+else 
+{System.out.println(j + " nieparzysta");
+}}
 }
 }
 

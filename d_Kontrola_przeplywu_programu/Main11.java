@@ -3,7 +3,7 @@ public class Main11 {
 
     public static void main(String[] args) {
 
-int n = 7;
+int n = 5;
 
              for (int i = 0; i <2* n; i++) {
                 String row = "";
